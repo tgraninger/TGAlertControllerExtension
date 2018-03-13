@@ -18,7 +18,7 @@ self.present(UIAlertController(configuration:)animated:completion:)
 @enum BCAlertConfiguration - returns a computed BCAlertDataStore property for the case specified by the UIAlertController initializer. Also adds UIAlertActions required for the alert.
 
 
-@struct BCAlertDataStore - returns data that is required for each case.
+@struct BCAlertDataStore - returns data that is required for each configuration case.
 
 
 # Scalability
