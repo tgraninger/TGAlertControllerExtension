@@ -34,4 +34,4 @@ To add a new alert:
 
 # TODO
 
-Refactor the logic for UIAlertAction completion handler. There is definitely a way to make this cleaner by using typealiases.
+Refactor the logic for UIAlertAction completion handler. There is definitely a way to make this cleaner.
